@@ -3,7 +3,7 @@
 ## 1. Natural language processing (Text clustering and Topic modeling)
 ## 2. Bayasian statistics (mathematic science) and Machine learning (unsupervised learning)
 ### Master thesis, Chalmers universlity of technology, University of Gothenburg
-#### Author: Elias Kamyab, M.S. in Mathematical statisitcs, M.S. in Applied data science https://www.linkedin.com/in/elias-kamyab-71669014b/
+### Author: Elias Kamyab, M.S. in Mathematical statisitcs, M.S. in Applied data science https://www.linkedin.com/in/elias-kamyab-71669014b/
 #### Company: The thesis has been done by collaboration with Swedish Audio book company: Storytel, located in Stockholm, https://www.storytel.com/se/sv/
 #### supervisor: Johan Jonasson, professor in Mathematical Sciences, Chalmers university of technology, Gothenburg
 
